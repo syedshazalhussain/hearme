@@ -1,0 +1,6 @@
+{
+  "name": "hear.me",
+  "description": "Meet hear.me — wireless earbuds designed around the way you listen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
